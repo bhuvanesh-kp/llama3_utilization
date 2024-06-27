@@ -1,7 +1,7 @@
 # llama3_utilization
 
 Task-1:
-utilization of llama3 and testing its working byt downloading the model from hugging face transformer library,
+utilization of llama3 and testing its working by downloading the model from hugging face transformer library,
 Asking few questions and checking its work progress
 
 Task-2:
